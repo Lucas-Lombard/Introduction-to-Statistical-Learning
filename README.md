@@ -4,6 +4,6 @@ The end of chapter labs, conceptual questions, and exercises for the book [*An I
 
 <p><img src="https://m.media-amazon.com/images/I/41pdqPP+oXL._SY445_SX342_.jpg" height=20% width=20%></p>
 
-A similar repository made by a-martyn was a huge help to me while setting up this repository. Thanks a lot Alan. 
+A similar repository made by [*a-martyn*](https://github.com/a-martyn/ISL-python?tab=readme-ov-file) was a huge help to me while setting up this repository.
 
 Note: I did not do all the labs and all the conceptual questions due to time constraints. 
