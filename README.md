@@ -6,4 +6,4 @@ This repositroy containts the end of chapter labs, conceptual questions, and exe
 
 A similar repository made by [*a-martyn*](https://github.com/a-martyn/ISL-python?tab=readme-ov-file) was a huge help to me while setting up this repository.
 
-Note: I did not do all the labs and all the conceptual questions due to time constraints. 
+Note: I did not do all the labs, conceptual questions and applied questions due to time constraints. 
